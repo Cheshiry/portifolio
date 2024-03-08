@@ -31,8 +31,7 @@ body{
 .cabecalho__menu__link{
     font-family: var(--fonte-secundaria);
     font-size: 1.5rem;
-/*     font-weight: 600;
- */    color: var(--cor-terciaria);
+    color: var(--cor-terciaria);
     text-decoration: none;
 }
 
@@ -41,20 +40,14 @@ body{
     color: var(--cor-hover);
 }
 
-.apresentacao__image{
-    width: 50%;
-
-}
-
 .apresentacao{
     padding: 5% 8%;
     display: flex;
     align-items: center;
     justify-content: space-between;
-    gap: 80px;
 }
 .apresentacao__conteudo{
-    width: 50%;
+    width: 615px;
     display: flex;
     flex-direction: column;
     gap: 40px;
@@ -89,7 +82,7 @@ body{
     justify-content: center;
     gap: 16px;
     border: 2px solid var(--cor-terciaria);
-    width: 50%;
+    width: 378px;
     text-align: center;
     border-radius: 8px;
     font-size: 24px;
@@ -99,7 +92,7 @@ body{
     color: var(--cor-secundaria);
     font-family: var(--fonte-secundaria);
 }
-.apresentacao__links__link:hover{
+.apresentacao__links__navegacao:hover{
     background-color:var(--cor-hover);
 }
 .rodape{
