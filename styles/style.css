@@ -13,7 +13,9 @@
     margin: 0;
     padding: 0;
 }
-
+header{
+    padding:5%;
+}
 body{
     box-sizing: border-box;
     background-color: var(--cor-primaria);
@@ -21,7 +23,7 @@ body{
 }
 
 .cabecalho{
-    padding: 12% 0% 0% 15%;
+    padding: 2% 0% 0% 15%;
 }
 .cabecalho__menu{
     display: flex;
