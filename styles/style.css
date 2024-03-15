@@ -13,9 +13,7 @@
     margin: 0;
     padding: 0;
 }
-header{
-    padding:5%;
-}
+
 body{
     box-sizing: border-box;
     background-color: var(--cor-primaria);
@@ -108,7 +106,6 @@ body{
 @media (max-width: 1200px) {
     .cabecalho{
          padding: 10%;  
-         border: 5% 0% 0% 0%;
     }
     .cabecalho__menu{
         justify-content: center;
