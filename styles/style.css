@@ -105,7 +105,7 @@ body{
 
 @media (max-width: 1200px) {
     .cabecalho__menu__link{
-    margin: -5% 0 0 1%;
+    margin: auto;
 
     }
     .cabecalho{
