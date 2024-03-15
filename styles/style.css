@@ -104,6 +104,9 @@ body{
 }
 
 @media (max-width: 1200px) {
+    header{
+    margin: 5%;
+    }
     .cabecalho{
          padding: 10%;  
     }
